@@ -32,8 +32,8 @@ namespace BumpNade
         public override string ModuleAuthor => "Deana https://x.com/dea_bb/";
         public override string ModuleDescription => "A Plugin that turns HEs into Bump Nades.";
 
-        const string bumpmine = "models/weapons/v_bumpmine.vmdl";
-        const string parachute = "models/props_survival/parachute/chute.vmdl";
+        const string bumpmine = "models/food/pizza/pizza_1.vmdl";
+        const string parachute = "models/generic/terrace_set_01/parasol_vintage_01_open.vmdl";
 
         public override void Load(bool hotReload)
         {
